@@ -23,7 +23,7 @@ A simple API that can signup,login,changepassword using [JSON WEB TOKENS](https:
 ```
 
 
-#Documentation
+# Documentation
 1. [JWT](https://www.npmjs.com/package/jsonwebtoken)
 2. [Mongoose](https://mongoosejs.com/docs/guide.html)
 3. [BCRYPT](https://www.npmjs.com/package/bcrypt)
