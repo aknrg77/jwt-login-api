@@ -6,12 +6,13 @@
 
 
 # jwt-login-api
-A simple API that can signup,login,changepassword using [JSON WEB TOKENS]: (https://jwt.io/introduction/) and storing user information in mongoDB.
+A simple API that can signup,login,changepassword using [JSON WEB TOKENS](https://jwt.io/introduction/) and storing user information in mongoDB.
 
 
 
-#Change .env.example to .env
-Add your mongo Database URL and a secret key for e.g monkey or something
+# Note 
+1. change .env.example to .env
+2. Add your mongo Database URL and a secret key for e.g monkey or something
 
 
 # Set Up Locally
@@ -23,11 +24,11 @@ Add your mongo Database URL and a secret key for e.g monkey or something
 
 
 #Documentation
-1. [JWT]:(https://www.npmjs.com/package/jsonwebtoken)
-2. [Mongoose]:(https://mongoosejs.com/docs/guide.html)
-3. [BCRYPT]:(https://www.npmjs.com/package/bcrypt)
-4. [dotenv]:(https://www.npmjs.com/package/dotenv)
-5. [Express]:(https://expressjs.com/en/starter/installing.html)
+1. [JWT](https://www.npmjs.com/package/jsonwebtoken)
+2. [Mongoose](https://mongoosejs.com/docs/guide.html)
+3. [BCRYPT](https://www.npmjs.com/package/bcrypt)
+4. [dotenv](https://www.npmjs.com/package/dotenv)
+5. [Express](https://expressjs.com/en/starter/installing.html)
 
 
 
